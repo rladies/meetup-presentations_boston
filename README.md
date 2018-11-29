@@ -10,3 +10,4 @@ R-Ladies Boston is founded in Sept 2016.
 ## 2018
 - [2017-03 tidyr for ggplot2](https://github.com/rladies/meetup-presentations_boston/blob/master/tidyr_ggplot2_short.pdf)
   - "gather" graphic from [Software Carpentry](http://swcarpentry.github.io/r-novice-gapminder/14-tidyr/)
+- [2018-10 git and github](https://github.com/rladies/meetup-presentations_boston/blob/master/git_and_github_20181023.pdf)
